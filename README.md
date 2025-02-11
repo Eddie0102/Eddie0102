@@ -1,6 +1,7 @@
 <div align="center">
 
-  ## 👋 세상에 정답은 없더라도, 함께라면 더 나은 답은 만들수 있다고 믿는 개발자 주영제(Eddie)입니다
+  ## 👋 세상에 정답은 없더라도, 함께 더 나은 답을 찾아나서는
+  ## 개발자 주영제(Eddie)입니다
   ### 🚀 Frontend Developer | React & Node.js Enthusiast  
   Passionate about creating interactive web applications and exploring new technologies.  
   **Always learning & growing!** 🚀  
