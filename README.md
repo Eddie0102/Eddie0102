@@ -52,7 +52,7 @@
   
 ### 📫 Let's Connect!
 
-[![Naver](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:youngje0102@naver.com)
+[![Naver](https://img.shields.io/badge/N_Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:youngje0102@naver.com)
 <a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
