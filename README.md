@@ -19,34 +19,34 @@
   ---
   
   ### 🚀 Currently Learning
-<ul style="list-style-type: none;">
-  <li>🔹 **React + Redux (with Styled-Components)**</li>
-  <li>🔹 **Node.js & Express**</li>
-  <li>🔹 **Next.js (Soon!)**</li>
-  <li>🔹 **Algorithm & Data Structure**</li>
-</ul>
-
----
-
+  <ul style="list-style: none; padding: 0;">
+    <li style="list-style: none;">📌 <b>React + Redux (with Styled-Components)</b></li>
+    <li style="list-style: none;">📌 <b>Node.js & Express</b></li>
+    <li style="list-style: none;">📌 <b>Next.js (Soon!)</b></li>
+    <li style="list-style: none;">📌 <b>Algorithm & Data Structure</b></li>
+  </ul>
+  
+  ---
+  
 ### 📊 GitHub Stats  
-<table border="0" style="border: none;">
-  <tr>
-    <td>
+<table style="border: none">
+  <tr style="border: none">
+    <td style="border: none">
       <img src="https://github-readme-stats.vercel.app/api?username=Eddie0102&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
     </td>
-    <td>
+    <td style="border: none">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie0102&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
     </td>
   </tr>
 </table>
 
----
-
-### 🏆 Notable Projects
-<ul style="list-style-type: none;">
-  <li>🔹 [**LOL-NEXT**](https://github.com/SeyongA/lol-next.git) - ** RIOT API를 활용한 리그오브레전드 전적검색 서비스 (OP.GG참고) **</li>
-  <li>🔹 [**COLLA**](https://github.com/akdlstla/colla.git) - ** WEB-SOCKET을 활용한 실시간 채팅 기반 업무 협업 TOOL 서비스 **</li>
-</ul>
+  ---
+  
+  ### 🏆 Notable Projects
+  <ul style="list-style: none; padding: 0;">
+    <li style="list-style: none;">📌 <b><a href="https://github.com/SeyongA/lol-next.git">LOL-NEXT</a></b> - RIOT API를 활용한 리그오브레전드 전적검색 서비스 (OP.GG참고)</li>
+    <li style="list-style: none;">📌 <b><a href="https://github.com/akdlstla/colla.git">COLLA</a></b> - WEB-SOCKET을 활용한 실시간 채팅 기반 업무 협업 TOOL 서비스</li>
+  </ul>
 
   ---
   
@@ -60,6 +60,7 @@
   </a>
 
 </div>
+
 
 
 
