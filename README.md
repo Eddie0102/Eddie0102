@@ -29,7 +29,7 @@
   ---
   
   ### 📊 GitHub Stats  
-  <table style="border: none">
+  <table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Eddie0102&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
