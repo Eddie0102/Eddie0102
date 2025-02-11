@@ -29,8 +29,16 @@
   ---
   
   ### 📊 GitHub Stats  
-  <img src="https://github-readme-stats.vercel.app/api?username=Eddie0102&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie0102&layout=compact&theme=radical" alt="Top Languages" width="48%"/>  
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Eddie0102&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie0102&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+    </td>
+  </tr>
+  </table>
 
   ---
   
