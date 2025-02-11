@@ -52,9 +52,9 @@
   
   ### 📫 Let's Connect!
   [![Naver](https://img.shields.io/badge/N_Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:youngje0102@naver.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://github.com/Eddie0102/Eddie0102/issues/new?title=LinkedIn%20준비%20중입니다!)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://github.com/Eddie0102/Eddie0102/issues/new?title=포트폴리오%20준비%20중입니다!)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)  
+ 
 
 
 </div>
