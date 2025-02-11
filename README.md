@@ -43,9 +43,9 @@
   ---
   
   ### 🏆 Notable Projects
-  <ul style="list-style: none; padding: 0;">
-    <li style="list-style: none;">📌 <b><a href="https://github.com/SeyongA/lol-next.git">LOL-NEXT</a></b> - RIOT API를 활용한 리그오브레전드 전적검색 서비스 (OP.GG참고)</li>
-    <li style="list-style: none;">📌 <b><a href="https://github.com/akdlstla/colla.git">COLLA</a></b> - WEB-SOCKET을 활용한 실시간 채팅 기반 업무 협업 TOOL 서비스</li>
+  <ul style="list-style-type: none;">
+    <li>📌 <b><a href="https://github.com/SeyongA/lol-next.git">LOL-NEXT</a></b> - RIOT API를 활용한 리그오브레전드 전적검색 서비스 (OP.GG참고)</li>
+    <li>📌 <b><a href="https://github.com/akdlstla/colla.git">COLLA</a></b> - WEB-SOCKET을 활용한 실시간 채팅 기반 업무 협업 TOOL 서비스</li>
   </ul>
 
   ---
