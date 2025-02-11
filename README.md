@@ -1,11 +1,13 @@
 <div align="center">
 
-  ## 👋도전하며 배우고, 더 나은 서비스를 고민하는 성장하는 영제(Eddie)입니다👋
+  ## 👋 도전하며 배우고, 더 나은 서비스를 고민하는 성장하는 영제(Eddie)입니다 👋
   ### 🚀 Frontend Developer | React & Node.js Enthusiast  
   Passionate about creating interactive web applications and exploring new technologies.  
   **Always learning & growing!** 🚀  
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1AFFC6&width=435&lines=Frontend+Developer;React+%7C+Node.js+%7C+Next.js;Always+Learning!+🚀)](https://git.io/typing-svg)
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1AFFC6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Node.js+%7C+Next.js;Always+Learning!+🚀" />
+  </p>
 
   ---
   
@@ -17,10 +19,12 @@
   ---
   
   ### 🚀 Currently Learning
-  - **React + Redux (with Styled-Components)**
-  - **Node.js & Express**
-  - **Next.js (Soon!)**
-  - **Algorithm & Data Structure**
+  <ul style="list-style-type: none; padding: 0;">
+    <li>📌 <b>React + Redux (with Styled-Components)</b></li>
+    <li>📌 <b>Node.js & Express</b></li>
+    <li>📌 <b>Next.js (Soon!)</b></li>
+    <li>📌 <b>Algorithm & Data Structure</b></li>
+  </ul>
   
   ---
   
@@ -31,21 +35,24 @@
   ---
   
   ### 🏆 Notable Projects
-  - 🔹 [**LOL-NEXT**](https://github.com/SeyongA/lol-next.git) - ** RIOT API를 활용한 리그오브레전드 전적검색 서비스 (OP.GG참고) **
-  - 🔹 [**COLLA**](https://github.com/akdlstla/colla.git) - ** WEB-SOCKET을 활용한 실시간 채팅 기반 업무 협업 TOOL 서비스 **
-  
+  <ul style="list-style-type: none; padding: 0;">
+    <li>📌 <b><a href="https://github.com/SeyongA/lol-next.git">LOL-NEXT</a></b> - RIOT API를 활용한 리그오브레전드 전적검색 서비스 (OP.GG참고)</li>
+    <li>📌 <b><a href="https://github.com/akdlstla/colla.git">COLLA</a></b> - WEB-SOCKET을 활용한 실시간 채팅 기반 업무 협업 TOOL 서비스</li>
+  </ul>
+
   ---
   
   ### 📫 Let's Connect!
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://your-portfolio-link.com)
-
-  ---
-  
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Eddie0102.Eddie0102)
+  [![Naver](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:youngje0102@naver.com)
+  <a href="#" onclick="alert('준비 중입니다!')">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="#" onclick="alert('준비 중입니다!')">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio">
+  </a>
 
 </div>
+
 
 
 
