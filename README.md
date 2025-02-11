@@ -1,9 +1,9 @@
 <div align="center">
 
   ## 👋 도전하며 배우고, 더 나은 서비스를 고민하는 성장하는 영제(Eddie)입니다 👋
-  ### 🚀 Frontend Developer
+  ### 🚀 Frontend Developer🚀
   Passionate about creating interactive web applications and exploring new technologies.  
-  **Always learning & growing!** 🚀  
+  🚀 **Always learning & growing!** 🚀  
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1AFFC6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Node.js+%7C+Next.js;Always+Learning!+🚀" />
