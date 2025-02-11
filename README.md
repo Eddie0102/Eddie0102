@@ -50,11 +50,18 @@
 
   ---
   
-  ### 📫 Let's Connect!
-  [![Naver](https://img.shields.io/badge/N_Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:youngje0102@naver.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)  
- 
+### 📫 Let's Connect!
+
+<a href="mailto:youngje0102@naver.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.notion.so/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio">
+</a>
+
 
 
 </div>
