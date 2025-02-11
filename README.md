@@ -1,7 +1,7 @@
 <div align="center">
 
   ## 👋 도전하며 배우고, 더 나은 서비스를 고민하는 성장하는 영제(Eddie)입니다 👋
-  ### 🚀 Frontend Developer | React & Node.js
+  ### 🚀 Frontend Developer
   Passionate about creating interactive web applications and exploring new technologies.  
   **Always learning & growing!** 🚀  
 
